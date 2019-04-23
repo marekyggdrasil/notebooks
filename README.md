@@ -6,4 +6,6 @@ Correct notebooks:
 
 Debugging stage notebooks: N/A
 
-Planned notebooks: N/A
+Planned notebooks:
+
+* tight-binding model approximation
