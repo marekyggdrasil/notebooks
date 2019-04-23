@@ -9,3 +9,4 @@ Debugging stage notebooks: N/A
 Planned notebooks:
 
 * tight-binding model approximation
+* Suzuki-Trotter expansion of Ising Model on IBM Q
