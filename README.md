@@ -1,12 +1,14 @@
 This is an (un)organized collection of some Jupyter notebooks I drafted. I am not yet sure where to put them so (totally temporarily) I just dump them all in this repository.
 
-Correct notebooks:
+Quantum Mechanics
 
-* [bloch sphere rotations](https://nbviewer.jupyter.org/github/marekyggdrasil/notebooks/blob/master/bloch-sphere-rotations.ipynb)
+* [Bloch Sphere Rotations](https://nbviewer.jupyter.org/github/marekyggdrasil/notebooks/blob/master/bloch-sphere-rotations.ipynb)
+* Tight-Binding Model
+* Jordan-Wigner Transformation
 
-Debugging stage notebooks: N/A
+Quantum Information and Quantum Computing
 
-Planned notebooks:
-
-* tight-binding model approximation
 * Suzuki-Trotter expansion of Ising Model on IBM Q
+* Grover's algorithm
+* Shor's algorithm
+* Quantum Teleportation
